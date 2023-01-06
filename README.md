@@ -7,6 +7,8 @@
   - [Kochgeschirr | Pfannen | Töpfe](#kochgeschirr--pfannen--t%C3%B6pfe)
   - [Korkenzieher](#korkenzieher)
   - [Rezepte](#rezepte)
+    - [Rezepte · Links](#rezepte-%C2%B7-links)
+    - [Rezepte · Community](#rezepte-%C2%B7-community)
 - [Messer \& Schleifen](#messer-%5C-schleifen)
   - [Schleifsteine](#schleifsteine)
   - [Messerschärfer \& Schleifhilfen](#messersch%C3%A4rfer-%5C-schleifhilfen)
@@ -23,6 +25,7 @@
   - [Zeiterfassung](#zeiterfassung)
   - [Mac - Screenshots \& Bildschirmaufnahmen](#mac---screenshots-%5C-bildschirmaufnahmen)
   - [Apple Mail | Tools & Converter](#apple-mail--tools--converter)
+    - [Softwareupdates](#softwareupdates)
   - [Windows - Screenshots \& Bildschirmaufnahmen](#windows---screenshots-%5C-bildschirmaufnahmen)
 - [Games | Playstation](#games--playstation)
   - [PS5 · Multiplayer-Spiele](#ps5-%C2%B7-multiplayer-spiele)
@@ -42,6 +45,7 @@
   - [Apple Care | Garantie](#apple-care--garantie)
   - [Präsentationssoftware](#pr%C3%A4sentationssoftware)
   - [Apple Supportartikel](#apple-supportartikel)
+    - [Mac](#mac)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
